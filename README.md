@@ -16,7 +16,7 @@ Allows you to create, list, view, update, and delete products in **JSON** format
 ## 📋 Requirements
 
 - PHP >= 8.1
-- Composer
+- Composer TESTE
 - Symfony CLI (optional but recommended)
 - Compatible database (MySQL, PostgreSQL, SQLite, etc.)
 - PHP extensions required by Symfony
