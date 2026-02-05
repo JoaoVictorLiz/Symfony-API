@@ -31,6 +31,8 @@ class Product
     #[ORM\Column(type: Types::DATE_MUTABLE, nullable: true)]
     private ?\DateTime $publishedOn = null;
 
+
+    
     public function getId(): ?int
     {
         return $this->id;
